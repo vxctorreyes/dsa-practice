@@ -14,5 +14,5 @@ function twoSum(nums, target) {
             }
         }
     }
-    return []; // No solution found!
+    return [];
 }
